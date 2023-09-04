@@ -1,0 +1,16 @@
+{
+  "name": "project-one",
+  "version": "1.0.0",
+  "engines": {
+    "node": "20.5.1",
+    "npm": "9.6.2"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./js/main.js",
+    "test": "echo \"No Tests\""
+  },
+  "author": "",
+  "license": "ISC"
+}
